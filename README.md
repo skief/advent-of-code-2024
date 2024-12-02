@@ -5,4 +5,4 @@
 | Day                  | Programming Language |
 |----------------------|----------------------|
 | 01                   | Excel                |
-
+| 02                   | Haskell              |
