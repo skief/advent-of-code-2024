@@ -7,3 +7,4 @@
 | 01  | Excel                |
 | 02  | Haskell              |
 | 03  | sed + grep           |
+| 04  | Bash                 |
