@@ -12,3 +12,4 @@
 | 06  | Perl                 |
 | 07  | Scala                |
 | 08  | Dart                 |
+| 09  | FreeBASIC            |
