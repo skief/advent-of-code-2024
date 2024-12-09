@@ -9,3 +9,4 @@
 | 03  | sed + grep           |
 | 04  | Bash                 |
 | 05  | Ruby                 |
+| 06  | Perl                 |
