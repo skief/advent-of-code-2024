@@ -11,3 +11,4 @@
 | 05  | Ruby                 |
 | 06  | Perl                 |
 | 07  | Scala                |
+| 08  | Dart                 |
