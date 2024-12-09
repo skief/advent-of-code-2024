@@ -10,3 +10,4 @@
 | 04  | Bash                 |
 | 05  | Ruby                 |
 | 06  | Perl                 |
+| 07  | Scala                |
