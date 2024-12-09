@@ -38,16 +38,10 @@ int part2(final Map<String, List<Point>> antennas, int h, int w) {
                 }
 
                 var diff = p1 - p2;
-                var antinode = p1 + diff;
+                var antinode = p1;
                 while (inRange(antinode, h, w)) {
                     antinodes.add(antinode);
                     antinode = antinode + diff;
-                }
-
-                antinode = p1 - diff;
-                while (inRange(antinode, h, w)) {
-                    antinodes.add(antinode);
-                    antinode = antinode - diff;
                 }
             };
         };
