@@ -13,3 +13,4 @@
 | 07  | Scala                |
 | 08  | Dart                 |
 | 09  | FreeBASIC            |
+| 10  | Pascal               |
