@@ -15,3 +15,4 @@
 | 09  | FreeBASIC            |
 | 10  | Pascal               |
 | 11  | PHP                  |
+| 12  | Lua                  | 
