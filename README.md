@@ -16,3 +16,4 @@
 | 10  | Pascal               |
 | 11  | PHP                  |
 | 12  | Lua                  | 
+| 13  | Swift                |
